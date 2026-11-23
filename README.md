@@ -16,10 +16,6 @@ Quant provides probabilistic market analysis for major crypto assets. The model 
 | --- | --- | --- |
 | Windows | 10, 11 | x64 |
 
-## Approach
-
-The model evaluates each asset across three scenarios (base, bull, bear) with a probability and target range for each, plus an aggregate conviction score. Every outlook includes the underlying drivers and reasoning.
-
 ## Requirements
 
 Windows 10 or higher. 4 GB RAM. ~250 MB disk. Internet connection for market data.
