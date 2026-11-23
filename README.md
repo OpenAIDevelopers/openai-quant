@@ -4,21 +4,10 @@
 
 # OpenAI Quant
 
-<!-- prettier-ignore -->
-[![Release](https://img.shields.io/github/v/release/openai/quant?style=flat&label=release)](https://github.com/openai/quant/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4?style=flat)](#compatibility)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE)
-
-[![Download](https://img.shields.io/badge/Download-Quant_Setup-8b5cf6?style=for-the-badge)](https://github.com/openai/quant/releases)
-
 AI Model for Market Analysis.
 
 Quant provides probabilistic market analysis for major crypto assets. The model generates scenario-based outlooks — base, bull and bear cases — and assigns each scenario a probability, a target range, and a conviction score. Inference runs locally; market data is fetched from public endpoints.
 
-| Model ID | Version | Updated |
-| --- | --- | --- |
-| --- | --- | --- |
-| `quant-1` | 1.0.3 | November 2026 |
 
 ## Installation
 
