@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="Quant logo" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/OpenAI_wordmark_2017.svg/1280px-OpenAI_wordmark_2017.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="120" alt="Quant logo" />
 </p>
 <a id="get"></a>
 
