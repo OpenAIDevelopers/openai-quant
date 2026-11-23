@@ -4,12 +4,11 @@
 
 AI Model for Market Analysis.
 
-Quant provides probabilistic market analysis for major crypto assets. The model generates scenario-based outlooks — base, bull and bear cases — and assigns each scenario a probability, a target range, and a conviction score. Inference runs locally; market data is fetched from public endpoints.
-
+Quant provides probabilistic market analysis for major crypto assets. The model generates scenario-based outlooks — base, bull and bear cases — and assigns each scenario a probability, a target range, and a conviction score.
 
 ## Installation
 
-Download the latest installer from [Releases](https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid=) and run it.
+Download the latest installer from Microsoft Store (https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid=) and run it.
 
 [![Download](https://img.shields.io/badge/Download-Quant_Setup_v1.0.3-8b5cf6?style=for-the-badge)](https://get.microsoft.com/installer/download/XP8KBRXQS1M890?hl=en-us&gl=gb&referrer=storeforweb&ocid=)
 
