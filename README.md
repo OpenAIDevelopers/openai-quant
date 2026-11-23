@@ -2,6 +2,7 @@
   <img src="assets/logo.png" width="120" alt="Quant logo" />
 </p>
 <a id="get"></a>
+
 # OpenAI Quant
 
 AI Model for Market Analysis.
@@ -35,12 +36,4 @@ Model documentation: [docs.md](docs.md). Changelog: [CHANGELOG.md](CHANGELOG.md)
 
 ## Contributing
 
-Please share bug reports and feature requests through [GitHub issues](https://github.com/openai/quant/issues). Pull requests are limited to repository collaborators; we do not accept pull requests from non-collaborators.
-
-## Security
-
-For security concerns, follow [SECURITY.md](SECURITY.md).
-
-## License
-
-MIT. See [LICENSE](LICENSE).
+Please share bug reports and feature requests through GitHub issues. Pull requests are limited to repository collaborators; we do not accept pull requests from non-collaborators.
