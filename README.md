@@ -1,6 +1,6 @@
 <a id="get"></a>
 
-# OpenAI Quant
+# OpenAI Quant (beta)
 
 AI Model for Market Analysis.
 
